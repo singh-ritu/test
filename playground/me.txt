@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ritu
+Skills: HTML, CSS, JS, React
+Email: singhritu241101@gmail.com
+{{/user}}
